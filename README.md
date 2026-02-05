@@ -181,7 +181,7 @@ fonts/
 
 ## 📝 Notas
 
-* Proyecto desarrollado con fines educativos y de práctica en Flutter
+* Proyecto desarrollado de práctica en Flutter
 * Los datos de jugadores, estadios y partidos son informativos del Mundial Qatar 2022
 
 ## 👨‍💻 Autor
